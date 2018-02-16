@@ -26,4 +26,4 @@ const maxNum = (arr) => {
     return res;
 };
 
-console.log(maxNum([18, -3, 0, 23, 90, 9, -100.4, 90.1, 'lol', '100']));
+console.log(maxNum([18, -3, 0, 23, 90, 9, -100.4, 90.1]));
